@@ -1,0 +1,8 @@
+D:\programming\lab8zad1\lab8zad1\bin\Debug\lab8zad1.exe.config
+D:\programming\lab8zad1\lab8zad1\bin\Debug\lab8zad1.exe
+D:\programming\lab8zad1\lab8zad1\bin\Debug\lab8zad1.pdb
+D:\programming\lab8zad1\lab8zad1\obj\Debug\lab8zad1.csproj.AssemblyReference.cache
+D:\programming\lab8zad1\lab8zad1\obj\Debug\lab8zad1.csproj.SuggestedBindingRedirects.cache
+D:\programming\lab8zad1\lab8zad1\obj\Debug\lab8zad1.csproj.CoreCompileInputs.cache
+D:\programming\lab8zad1\lab8zad1\obj\Debug\lab8zad1.exe
+D:\programming\lab8zad1\lab8zad1\obj\Debug\lab8zad1.pdb
